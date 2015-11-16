@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.hotchemi</groupId>
+  <artifactId>android-rate</artifactId>
+  <version>0.4.3</version>
+  <packaging>aar</packaging>
+  <name>Android-Rate</name>
+  <description>Library for Android applications, which provides rating dialog.</description>
+  <url>https://github.com/hotchemi/Android-Rate</url>
+  <licenses>
+    <license>
+      <name>The MIT License</name>
+      <url>http://opensource.org/licenses/mit-license.php</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>hotchemi</id>
+      <name>Shintaro Katafuchi</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:hotchemi/Android-Rate.git</connection>
+    <developerConnection>scm:git@github.com:hotchemi/Android-Rate.git</developerConnection>
+    <url>https://github.com/hotchemi/Android-Rate</url>
+  </scm>
+</project>
