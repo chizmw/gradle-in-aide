@@ -19,6 +19,15 @@ android {
     }
 }
 
+// locally resolved deps
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+// gradle deps
+repositories {
+    localMaven();
+}
+dependencies {
+    compile 'com.github.hotchemi:android-rate:0.4.3'
 }
